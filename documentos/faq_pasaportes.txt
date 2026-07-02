@@ -112,13 +112,13 @@ PREGUNTA: ¿Cuál es el costo del pasaporte? ¿Cuánto vale el pasaporte?
 
 RESPUESTA:
 
-Pasaporte Ordinario (32 páginas): $295.000 COP
+Pasaporte Ordinario (32 páginas): $300.600 COP
 Primer pago: $184.000
-Segundo pago: $111.000
+Segundo pago: $116.600
 
-Pasaporte Ejecutivo (48 páginas): $428.000 COP
+Pasaporte Ejecutivo (48 páginas): $440.400 COP
 Primer pago: $184.000
-Segundo pago: $244.000
+Segundo pago: $256.400
 
 ------------------------------------------------------------
 
