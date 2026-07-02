@@ -376,7 +376,7 @@ Te deseo un excelente día.
             with st.spinner("🔍 Buscando información..."):
                 resultados = db.similarity_search_with_score(
                     pregunta,
-                    k=3
+                    k=5
                 )
         except Exception as error:
             respuesta_texto = (

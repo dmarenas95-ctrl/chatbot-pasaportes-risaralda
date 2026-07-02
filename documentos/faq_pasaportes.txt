@@ -1,297 +1,743 @@
-PREGUNTA: ¿Cuál es el horario de atención de la Oficina de Pasaportes?
+======================================================================
+DESCRIPCIÓN GENERAL DE LA BASE DE CONOCIMIENTO
+======================================================================
 
-RESPUESTA:
+Esta base de conocimiento contiene información oficial de la Oficina de Pasaportes de la Gobernación de Risaralda.
 
-La Oficina de Pasaportes de la Gobernación de Risaralda atiende al público en los siguientes horarios:
+Incluye información relacionada con:
 
-Lunes a jueves:
-7:30 a. m. a 12:00 m.
-1:00 p. m. a 4:30 p. m.
+- Expedición del pasaporte.
+- Renovación del trámite mediante nueva expedición.
+- Costos y formas de pago.
+- Requisitos para mayores y menores de edad.
+- Agendamiento de citas.
+- Entrega del pasaporte.
+- Horarios de atención.
+- Ubicación.
+- Casos especiales.
+- Preguntas frecuentes.
 
-Viernes:
-7:00 a. m. a 3:00 p. m. en jornada continua.
+Las respuestas deberán fundamentarse exclusivamente en la información contenida en esta base de conocimiento.
 
-------------------------------------------------------------
+Cuando la información no exista de manera explícita, deberá indicarse que la consulta no se encuentra disponible en la base de conocimiento.
 
-PREGUNTA: ¿Qué es el pasaporte?
 
-RESPUESTA:
-El pasaporte es un documento oficial de viaje expedido por el Ministerio de Relaciones Exteriores de Colombia que permite a los ciudadanos colombianos identificarse en el exterior y viajar a otros países. Este documento certifica la identidad y la nacionalidad de su titular y es un requisito indispensable para ingresar o salir del territorio nacional hacia la mayoría de los destinos internacionales.
+======================================================================
+TEMA: INFORMACIÓN GENERAL DEL PASAPORTE
+======================================================================
 
-------------------------------------------------------------
+PALABRAS RELACIONADAS
 
-PREGUNTA: ¿Dónde puedo tramitar el pasaporte en Risaralda?
+pasaporte
+pasaportes
+pasaporte colombiano
+documento de viaje
+documento internacional
+viajar
+viaje internacional
+salir del país
+ingresar al país
+identificación internacional
+libreta
+oficina de pasaportes
+Gobernación de Risaralda
+Pereira
+Ministerio de Relaciones Exteriores
+expedición
+expedir
+solicitar
+tramitar
+obtener
+hacer el pasaporte
+nuevo pasaporte
+primer pasaporte
+emitir pasaporte
 
-RESPUESTA:
-El trámite se realiza en la Oficina de Pasaportes de la Gobernación de Risaralda, ubicada en la Calle 19 No. 13-17, Pereira, Risaralda, código postal 660004. La atención se presta únicamente con cita previa agendada a través del portal oficial de Pasaportes de Risaralda.
+CONSULTAS FRECUENTES
 
-------------------------------------------------------------
+¿Qué es el pasaporte?
 
-PREGUNTA: ¿Es necesario agendar una cita para tramitar el pasaporte?
+¿Para qué sirve el pasaporte?
 
-RESPUESTA:
-Sí. Todos los trámites de expedición o renovación de pasaporte requieren una cita previa. Para solicitarla, primero debe realizar el primer pago correspondiente al trámite y, posteriormente, ingresar al sistema de agendamiento para seleccionar la fecha y la hora disponibles.
+¿Por qué necesito un pasaporte?
 
-------------------------------------------------------------
-
-PREGUNTA: ¿La cita para el trámite del pasaporte tiene algún costo?
-
-RESPUESTA:
-No. La cita es completamente gratuita. La Gobernación de Risaralda no cobra por el agendamiento. Cualquier persona que solicite dinero para asignar una cita está realizando un cobro no autorizado.
-
-------------------------------------------------------------
-
-PREGUNTA: ¿Cómo puedo solicitar una cita para tramitar el pasaporte?
-
-RESPUESTA:
-Para solicitar una cita debe seguir estos pasos:
-
-1. Registrar previamente su información en el portal oficial de Pasaportes de Risaralda.
-2. Realizar el primer pago del trámite.
-3. Ingresar al módulo "Solicitar cita".
-4. Registrar el número de identificación, la fecha del primer pago y el correo electrónico.
-5. Seleccionar la fecha y la hora disponibles.
-6. Confirmar la cita y asistir puntualmente con los documentos requeridos.
-
-------------------------------------------------------------
-
-PREGUNTA:
 ¿Cómo puedo sacar el pasaporte?
 
-RESPUESTA:
+¿Cómo obtengo el pasaporte?
 
-Para tramitar un pasaporte en la Oficina de Pasaportes de la Gobernación de Risaralda debe seguir estos pasos:
+Quiero sacar el pasaporte.
 
-1. Realice el primer pago correspondiente al impuesto departamental y al impuesto de timbre a través del portal oficial de Pasaportes de la Gobernación de Risaralda.
+Necesito tramitar un pasaporte.
 
-2. Agende la cita en línea mediante el portal oficial. El sistema habilitará el agendamiento una vez el pago haya sido registrado.
+¿Cómo empiezo el trámite?
 
-3. Preséntese personalmente el día y la hora de la cita con los documentos requeridos según el tipo de trámite (primera vez, renovación o reemplazo). Durante la atención se realizará la toma de fotografía, huellas dactilares y firma digital.
+¿Dónde puedo sacar el pasaporte?
 
-4. Una vez finalizado el trámite presencial, realice el segundo pago correspondiente al valor de la libreta del pasaporte.
+¿Quién expide el pasaporte?
 
-5. Finalmente, reclame personalmente su pasaporte en la Oficina de Pasaportes dentro de los tiempos establecidos para la entrega.
+¿Dónde realizan el trámite?
 
-Para conocer los requisitos específicos, costos actualizados y agendar su cita, consulte el portal oficial de la Oficina de Pasaportes de la Gobernación de Risaralda.
+¿Qué debo hacer para obtener el pasaporte?
 
-------------------------------------------------------------
+¿Cómo solicito el pasaporte?
 
-PREGUNTA: ¿Qué documento debo presentar para realizar el trámite del pasaporte?
+¿Quién puede solicitar un pasaporte?
 
-RESPUESTA:
-Los ciudadanos mayores de edad deben presentar la cédula de ciudadanía original en formato físico y en buen estado. Dependiendo del trámite, pueden requerirse documentos adicionales, por lo que se recomienda verificar previamente los requisitos publicados por la Gobernación de Risaralda.
+INFORMACIÓN
 
-------------------------------------------------------------
+El pasaporte colombiano es el documento oficial de viaje expedido por el Estado colombiano que permite a los ciudadanos colombianos identificarse internacionalmente y salir o ingresar al territorio nacional de acuerdo con la normatividad vigente.
 
-PREGUNTA: ¿Puedo tramitar el pasaporte con una contraseña de la cédula?
+La Oficina de Pasaportes de la Gobernación de Risaralda presta el servicio de expedición del pasaporte para los ciudadanos que cumplen los requisitos establecidos por el Ministerio de Relaciones Exteriores.
 
-RESPUESTA:
-Sí. Es posible realizar el trámite presentando la contraseña expedida por la Registraduría Nacional del Estado Civil, siempre que corresponda a una contraseña válida para solicitar por primera vez la cédula o por duplicado y cumpla los requisitos establecidos por el Ministerio de Relaciones Exteriores.
+Todo trámite de pasaporte es personal. El ciudadano debe presentarse en la Oficina de Pasaportes para realizar el proceso de verificación de identidad, captura de fotografía, huellas dactilares y firma digital.
 
-------------------------------------------------------------
+Antes de asistir a la cita es obligatorio realizar el primer pago correspondiente al impuesto departamental y al impuesto de timbre. Posteriormente deberá agendar la cita mediante los canales oficiales.
 
-PREGUNTA: ¿Debo llevar fotografías para el trámite?
+Una vez el funcionario valide la documentación presentada durante la cita, el ciudadano podrá realizar el segundo pago correspondiente al valor de la libreta del pasaporte.
 
-RESPUESTA:
-No. No es necesario presentar fotografías. La fotografía, las huellas dactilares y la firma digital son tomadas directamente en la Oficina de Pasaportes durante la formalización del trámite, sin costo adicional.
+Toda la información suministrada durante el trámite debe coincidir con los datos registrados ante la Registraduría Nacional del Estado Civil.
 
-------------------------------------------------------------
+La expedición del pasaporte está sujeta al cumplimiento de los requisitos establecidos por el Ministerio de Relaciones Exteriores y la normatividad colombiana vigente.
 
-PREGUNTA: ¿Qué tipos de pasaporte existen en Colombia?
+======================================================================
+TEMA: EXPEDICIÓN DEL PASAPORTE
+======================================================================
 
-RESPUESTA:
-En la Oficina de Pasaportes de la Gobernación de Risaralda se expiden principalmente dos tipos de pasaporte:
+PALABRAS RELACIONADAS
 
-Pasaporte Ordinario: contiene 32 páginas y tiene una vigencia de 10 años.
+expedición
+expedir
+tramitar
+trámite
+sacar
+hacer
+solicitar
+obtener
+nuevo pasaporte
+primera vez
+pasaporte nuevo
+proceso
+procedimiento
+pasos
+cómo sacar
+cómo tramitar
+cómo solicitar
 
-Pasaporte Ejecutivo: contiene 48 páginas y tiene una vigencia de 10 años. Está dirigido a personas que requieren una mayor cantidad de hojas para visas y sellos migratorios.
+CONSULTAS FRECUENTES
 
-------------------------------------------------------------
+¿Cómo saco el pasaporte?
 
-PREGUNTA: ¿Cuál es el costo del pasaporte? ¿Cuánto vale el pasaporte?
+¿Cómo hago el trámite?
 
-RESPUESTA:
+¿Cómo tramito el pasaporte?
 
-Pasaporte Ordinario (32 páginas): $300.600 COP
-Primer pago: $184.000
-Segundo pago: $116.600
+¿Cómo solicito el pasaporte?
 
-Pasaporte Ejecutivo (48 páginas): $440.400 COP
-Primer pago: $184.000
-Segundo pago: $256.400
+¿Cómo puedo obtener el pasaporte?
 
-------------------------------------------------------------
+¿Cuáles son los pasos?
 
-PREGUNTA: ¿Dónde puedo consultar el valor actualizado del pasaporte?
+¿Qué debo hacer?
 
-RESPUESTA:
-Las tarifas vigentes del pasaporte pueden consultarse en el portal oficial de Pasaportes de Risaralda.
+¿Cómo es el proceso?
 
-Actualmente, las tarifas son:
+¿Cuál es el procedimiento?
 
-Pasaporte Ordinario (32 páginas): $300.600.
-Primer pago (Timbre e Impuesto Departamental): $184.000.
-Segundo pago (Libreta): $116.600.
+¿Dónde inicio el trámite?
 
-Pasaporte Ejecutivo (48 páginas): $440.400.
-Primer pago (Timbre e Impuesto Departamental): $184.000.
-Segundo pago (Libreta): $256.400.
+INFORMACIÓN
 
-Antes de realizar cualquier pago, se recomienda verificar que las tarifas continúen vigentes en el portal oficial.
+El trámite para la expedición del pasaporte en la Oficina de Pasaportes de la Gobernación de Risaralda comprende las siguientes etapas:
 
-------------------------------------------------------------
+1. Realizar el primer pago correspondiente al impuesto departamental y al impuesto de timbre.
 
-PREGUNTA: ¿Cuáles son los medios de pago autorizados para el trámite?
+2. Agendar la cita mediante los canales oficiales establecidos por la Gobernación de Risaralda.
 
-RESPUESTA:
-El trámite del pasaporte requiere dos pagos.
+3. Presentarse personalmente el día de la cita con los documentos requeridos.
 
-El primer pago puede realizarse mediante la plataforma PSE o descargando el recibo para pagar en las entidades bancarias autorizadas por la Gobernación de Risaralda.
+4. Durante la atención se realizará la validación de identidad, captura de fotografía, huellas dactilares y firma digital.
 
-El segundo pago se realiza únicamente después de que la documentación sea validada durante la cita y actualmente debe efectuarse en efectivo en el Banco GNB Sudameris.
+5. Una vez aprobada la documentación, realizar el segundo pago correspondiente al valor de la libreta del pasaporte.
 
-------------------------------------------------------------
+6. Reclamar personalmente el pasaporte dentro de los tiempos establecidos por la Oficina de Pasaportes.
 
-PREGUNTA: ¿Debo realizar más de un pago para obtener el pasaporte?
+El trámite únicamente podrá realizarse cuando el ciudadano cumpla con todos los requisitos exigidos por la normatividad vigente.
 
-RESPUESTA:
-Sí. El trámite requiere dos pagos obligatorios.
+======================================================================
+TEMA: COSTOS Y FORMAS DE PAGO DEL PASAPORTE
+======================================================================
 
-Primer pago: corresponde al Timbre e Impuesto Departamental y debe realizarse antes de solicitar la cita.
+PALABRAS RELACIONADAS
 
-Segundo pago: corresponde al valor de la libreta del pasaporte y se realiza únicamente después de asistir a la cita y de que el funcionario valide la documentación presentada.
+costo
+costos
+precio
+precios
+valor
+valores
+tarifa
+tarifas
+cuánto cuesta
+cuánto vale
+cuánto debo pagar
+cuánto pago
+pago
+pagar
+primer pago
+segundo pago
+derechos
+impuesto
+timbre
+PSE
+Banco
+GNB Sudameris
+consignación
+pago en línea
+medio de pago
+pasaporte ordinario
+pasaporte ejecutivo
+libreta
+valor del pasaporte
+precio del pasaporte
 
-------------------------------------------------------------
+CONSULTAS FRECUENTES
 
-PREGUNTA: ¿Es posible realizar pagos en línea?
+¿Cuánto cuesta el pasaporte?
 
-RESPUESTA:
-Sí. El primer pago del trámite puede realizarse en línea mediante la plataforma PSE disponible en el portal oficial de Pasaportes de Risaralda. El segundo pago no se realiza por PSE; actualmente debe efectuarse en efectivo en el Banco GNB Sudameris, una vez el trámite haya sido aprobado.
+¿Cuánto vale el pasaporte?
 
-------------------------------------------------------------
+¿Cuál es el precio del pasaporte?
 
-PREGUNTA: ¿Cuál es la vigencia del pasaporte?
+¿Cuál es el valor del pasaporte?
 
-RESPUESTA:
-Tanto el Pasaporte Ordinario como el Pasaporte Ejecutivo tienen una vigencia de diez (10) años, contados a partir de la fecha de expedición. Antes de viajar, se recomienda verificar que el país de destino no exija una vigencia mínima superior a seis meses.
+¿Qué debo pagar?
 
-------------------------------------------------------------
+¿Cuánto cuesta sacar el pasaporte?
 
-PREGUNTA: ¿Puedo renovar mi pasaporte?
+¿Cuánto cuesta el pasaporte ordinario?
 
-RESPUESTA:
-Sí. Si su pasaporte está próximo a vencer, ya venció, se encuentra deteriorado o ya no tiene páginas disponibles, debe realizar un nuevo trámite de expedición. En Colombia no existe un proceso de renovación; siempre se expide un nuevo pasaporte.
+¿Cuánto cuesta el pasaporte ejecutivo?
 
-------------------------------------------------------------
+¿Cuánto vale el ordinario?
 
-PREGUNTA: ¿Cuál es el horario de atención de la Oficina de Pasaportes?
+¿Cuánto vale el ejecutivo?
 
-RESPUESTA:
+¿Cuánto cuesta la libreta?
 
-La Oficina de Pasaportes de la Gobernación de Risaralda atiende al público en los siguientes horarios:
+¿Cuánto cuesta el trámite?
 
-Lunes a jueves:
-7:30 a. m. a 12:00 m.
-1:00 p. m. a 4:30 p. m.
-Viernes:
-7:00 a. m. a 3:00 p. m. en jornada continua.
+¿Hay que hacer dos pagos?
 
-------------------------------------------------------------
+¿Cómo pago el pasaporte?
 
-PREGUNTA: ¿Qué debo hacer si mi pasaporte ya venció?
+¿Dónde pago?
 
-RESPUESTA:
-Si su pasaporte se encuentra vencido, debe realizar un nuevo trámite de expedición. Para ello debe efectuar el primer pago, agendar una cita en el portal oficial de Pasaportes de Risaralda y presentarse con su documento de identidad original y los demás requisitos exigidos.
+¿Puedo pagar por PSE?
 
-------------------------------------------------------------
+¿Se puede pagar por internet?
 
-PREGUNTA: ¿Qué debo hacer si perdí mi pasaporte?
+¿Dónde realizo el primer pago?
 
-RESPUESTA:
-Si perdió su pasaporte, debe solicitar un nuevo documento. Durante el trámite deberá informar la pérdida del pasaporte anterior al funcionario que lo atienda. Posteriormente, deberá cumplir el mismo procedimiento de expedición, incluyendo los pagos, la cita y la presentación de los documentos requeridos.
+¿Dónde realizo el segundo pago?
 
-------------------------------------------------------------
+INFORMACIÓN
 
-PREGUNTA: ¿Qué debo hacer si mi pasaporte fue robado?
+El trámite del pasaporte requiere la realización de dos pagos obligatorios.
 
-RESPUESTA:
-Si su pasaporte fue objeto de hurto, debe informar esta situación durante el trámite de expedición del nuevo pasaporte. Se recomienda, además, reportar el hecho ante las autoridades competentes para evitar un uso indebido de su información personal.
+PRIMER PAGO
 
-------------------------------------------------------------
+El primer pago corresponde al impuesto departamental y al impuesto de timbre.
 
-PREGUNTA: ¿Debo presentar mi pasaporte anterior durante el trámite?
+Este pago debe realizarse antes de solicitar la cita para el trámite del pasaporte.
 
-RESPUESTA:
-Sí. Si conserva el pasaporte anterior, debe presentarlo el día de la cita para su cancelación. En caso de pérdida o hurto, deberá informar esta situación al funcionario encargado durante el proceso de expedición del nuevo documento.
+Puede efectuarse mediante la plataforma PSE o en las entidades bancarias autorizadas por la Gobernación de Risaralda.
 
-------------------------------------------------------------
+SEGUNDO PAGO
 
-PREGUNTA:
-¿Cómo sacar el pasaporte para un menor de edad?
+El segundo pago corresponde al valor de la libreta del pasaporte.
 
-RESPUESTA:
+Este pago únicamente debe realizarse cuando el funcionario de la Oficina de Pasaportes valide la documentación presentada durante la cita.
 
-Para tramitar el pasaporte de un menor de edad es obligatoria la presencia del menor acompañado por uno o ambos padres o por su representante legal, presentando los documentos exigidos por la Oficina de Pasaportes.
+El segundo pago se realiza en efectivo en el Banco GNB Sudameris.
 
-------------------------------------------------------------
+TARIFAS VIGENTES
 
-PREGUNTA:
-¿Qué documentos necesita un menor para sacar el pasaporte?
+PASAPORTE ORDINARIO (32 páginas)
 
-RESPUESTA:
+Valor total:
+$300.600 COP
 
-El menor debe presentar su registro civil o tarjeta de identidad según la edad, además de asistir acompañado por sus padres o representante legal con los documentos de identificación correspondientes.
+Primer pago:
+$184.000 COP
 
-------------------------------------------------------------
+Segundo pago:
+$116.600 COP
 
-PREGUNTA:
-¿Debe asistir el menor a la cita?
+PASAPORTE EJECUTIVO (48 páginas)
 
-RESPUESTA:
+Valor total:
+$440.400 COP
 
-Sí. Todos los menores de edad deben presentarse personalmente en la Oficina de Pasaportes para la toma de fotografía, huellas y firma cuando aplique.
+Primer pago:
+$184.000 COP
 
-------------------------------------------------------------
+Segundo pago:
+$256.400 COP
 
-PREGUNTA:
-¿Puede un familiar llevar al menor?
+OBSERVACIONES
 
-RESPUESTA:
+El ciudadano debe conservar los comprobantes de pago y presentarlos cuando sean requeridos durante el trámite.
 
-Solo si acredita la representación legal o presenta la autorización correspondiente de acuerdo con la normatividad vigente.
+Las tarifas pueden ser modificadas por las autoridades competentes. Siempre prevalecerán los valores oficiales publicados por la Gobernación de Risaralda y el Ministerio de Relaciones Exteriores.
 
-------------------------------------------------------------
+======================================================================
+TEMA: REQUISITOS PARA MAYORES DE EDAD
+======================================================================
 
-PREGUNTA:
-¿Necesito cita para un menor?
+PALABRAS RELACIONADAS
 
-RESPUESTA:
+requisitos
+documentos
+documentación
+papeles
+qué necesito
+qué debo llevar
+qué debo presentar
+qué documentos debo presentar
+documento de identidad
+cédula
+cédula original
+contraseña
+registraduría
+identificación
+requisitos mayores de edad
+primera vez
+renovación
+expedición
+trámite
+fotografía
+foto
+huellas
+firma
 
-Sí. El trámite del pasaporte para menores también requiere cita previa.
+CONSULTAS FRECUENTES
 
-------------------------------------------------------------
+¿Qué necesito para sacar el pasaporte?
 
-PREGUNTA:
-¿Cuánto cuesta el pasaporte para un menor?
+¿Cuáles son los requisitos?
 
-RESPUESTA:
+¿Qué documentos debo presentar?
 
-El valor del pasaporte para menores corresponde al tipo de pasaporte solicitado y tiene el mismo costo establecido para cada modalidad.
+¿Qué papeles debo llevar?
 
-------------------------------------------------------------
+¿Qué debo llevar a la cita?
 
-PREGUNTA: ¿Qué sucede si llego tarde a la cita para el pasaporte?
+¿Qué exigen para sacar el pasaporte?
 
-RESPUESTA:
+¿Puedo presentar fotocopia de la cédula?
 
-Si no se presenta en la fecha y hora asignadas, deberá gestionar una nueva cita de acuerdo con la disponibilidad del sistema.
+¿Necesito llevar fotos?
 
+¿Debo llevar fotografía?
 
-------------------------------------------------------------
+¿Llevo fotocopias?
 
-PREGUNTA: ¿Qué documento debo presentar para reclamar mi pasaporte?
+¿Aceptan contraseña?
 
-RESPUESTA:
+¿Sirve la contraseña de la Registraduría?
 
-Debe presentar el documento de identidad original con el cual realizó el trámite.
+¿Qué documento de identidad debo presentar?
 
+INFORMACIÓN
+
+Los ciudadanos mayores de edad deberán presentarse personalmente el día de la cita para realizar el trámite del pasaporte.
+
+Para la expedición del pasaporte se debe presentar la cédula de ciudadanía original en buen estado.
+
+Cuando sea procedente conforme a la normatividad vigente, podrá presentarse la contraseña expedida por la Registraduría Nacional del Estado Civil.
+
+La información registrada durante el trámite debe coincidir con la información que reposa en la Registraduría Nacional del Estado Civil.
+
+La fotografía, las huellas dactilares y la firma digital son tomadas directamente en la Oficina de Pasaportes durante la atención.
+
+No es necesario llevar fotografías impresas.
+
+La Oficina de Pasaportes podrá solicitar documentación adicional cuando la situación particular del ciudadano lo requiera o cuando exista alguna inconsistencia en la información presentada.
+
+OBSERVACIONES
+
+Todos los documentos deben presentarse en original cuando la normatividad así lo exija.
+
+La documentación presentada deberá encontrarse en buen estado y permitir la correcta identificación del ciudadano.
+
+======================================================================
+TEMA: AGENDAMIENTO DE CITAS
+======================================================================
+
+PALABRAS RELACIONADAS
+
+cita
+citas
+agendar
+agenda
+agendamiento
+reservar
+programar
+programación
+fecha
+hora
+disponibilidad
+calendario
+portal
+internet
+web
+primera cita
+solicitar cita
+pedir cita
+
+CONSULTAS FRECUENTES
+
+¿Cómo saco la cita?
+
+¿Cómo agendo la cita?
+
+¿Dónde saco la cita?
+
+¿La cita es obligatoria?
+
+¿La cita tiene costo?
+
+¿Debo pedir cita?
+
+¿Cómo reservo la cita?
+
+¿Dónde se agenda?
+
+¿Cómo ingreso al sistema?
+
+¿Cómo puedo solicitar la cita?
+
+INFORMACIÓN
+
+La atención para el trámite del pasaporte se realiza mediante cita previa.
+
+La cita es gratuita.
+
+Antes de solicitar la cita el ciudadano deberá realizar el primer pago correspondiente al impuesto departamental y al impuesto de timbre.
+
+Posteriormente deberá ingresar al portal oficial de la Oficina de Pasaportes de la Gobernación de Risaralda para registrar la información solicitada y seleccionar la fecha y hora disponibles.
+
+El ciudadano deberá asistir puntualmente el día y la hora programados con la documentación requerida para realizar el trámite.
+
+OBSERVACIONES
+
+Si el ciudadano no asiste a la cita deberá realizar nuevamente el procedimiento de agendamiento conforme a la disponibilidad existente.
+
+======================================================================
+TEMA: PASAPORTE PARA MENORES DE EDAD
+======================================================================
+
+PALABRAS RELACIONADAS
+
+menor
+menores
+niño
+niña
+hijo
+hija
+bebé
+adolescente
+registro civil
+tarjeta de identidad
+padre
+madre
+representante legal
+custodia
+permiso
+autorización
+acompañante
+menor de edad
+pasaporte infantil
+
+CONSULTAS FRECUENTES
+
+¿Cómo saco el pasaporte para mi hijo?
+
+¿Qué necesito para sacar el pasaporte de un menor?
+
+¿Cuáles son los requisitos para menores?
+
+¿Qué documentos necesita un menor?
+
+¿El niño debe asistir?
+
+¿El bebé debe ir?
+
+¿Puede ir solamente uno de los padres?
+
+¿Qué pasa si uno de los padres no puede asistir?
+
+¿Necesita registro civil?
+
+¿Necesita tarjeta de identidad?
+
+¿Quién debe acompañar al menor?
+
+INFORMACIÓN
+
+Los menores de edad deben presentarse personalmente en la Oficina de Pasaportes para realizar el trámite.
+
+El menor deberá estar acompañado por sus padres o por quien ejerza legalmente la representación, de conformidad con la normatividad vigente.
+
+Dependiendo de la edad del menor deberá presentarse el Registro Civil de Nacimiento o la Tarjeta de Identidad original, según corresponda.
+
+Durante la atención se realizará la captura de fotografía, huellas dactilares cuando aplique y firma cuando corresponda.
+
+Cuando exista alguna situación especial relacionada con la representación legal, custodia o autorización, el ciudadano deberá presentar la documentación exigida por la normatividad vigente.
+
+OBSERVACIONES
+
+La Oficina de Pasaportes podrá solicitar documentos adicionales cuando la situación particular del menor lo requiera.
+
+Siempre prevalecerán los requisitos establecidos por el Ministerio de Relaciones Exteriores.
+
+======================================================================
+TEMA: RENOVACIÓN, PÉRDIDA Y HURTO DEL PASAPORTE
+======================================================================
+
+PALABRAS RELACIONADAS
+
+renovar
+renovación
+vencido
+vencimiento
+expirado
+caducado
+nuevo pasaporte
+reposición
+duplicado
+perdido
+pérdida
+extraviado
+robo
+hurto
+dañado
+deteriorado
+
+CONSULTAS FRECUENTES
+
+¿Cómo renuevo el pasaporte?
+
+Mi pasaporte se venció.
+
+Tengo el pasaporte vencido.
+
+Perdí el pasaporte.
+
+Me robaron el pasaporte.
+
+¿Qué hago si se perdió?
+
+¿Qué hago si me lo hurtaron?
+
+¿Debo denunciar la pérdida?
+
+¿Debo sacar otro pasaporte?
+
+¿Cómo saco un nuevo pasaporte?
+
+¿Necesito renovar?
+
+INFORMACIÓN
+
+En Colombia no existe el trámite de renovación del pasaporte.
+
+Cuando el pasaporte pierde vigencia, el ciudadano debe realizar un nuevo trámite de expedición cumpliendo los requisitos establecidos para la obtención del documento.
+
+Si el pasaporte fue perdido, extraviado, hurtado o robado, el ciudadano deberá informar esta situación durante el trámite.
+
+Cuando el pasaporte presente deterioro o daños que afecten su utilización, deberá tramitarse un nuevo pasaporte.
+
+OBSERVACIONES
+
+Cada caso será verificado por el funcionario de la Oficina de Pasaportes conforme a la normatividad vigente y podrán solicitarse documentos adicionales cuando sea necesario.
+
+======================================================================
+TEMA: ENTREGA DEL PASAPORTE
+======================================================================
+
+PALABRAS RELACIONADAS
+
+entrega
+reclamar
+reclamo
+recoger
+recoger pasaporte
+retiro
+retiro del pasaporte
+disponible
+listo
+cuándo entregan
+cuándo puedo reclamar
+entrega del documento
+tiempo de entrega
+estado del trámite
+
+CONSULTAS FRECUENTES
+
+¿Cuándo entregan el pasaporte?
+
+¿Cuándo puedo reclamar el pasaporte?
+
+¿Ya está listo mi pasaporte?
+
+¿Cuánto demora la entrega?
+
+¿Quién puede reclamar el pasaporte?
+
+¿Debo reclamarlo personalmente?
+
+¿Dónde reclamo el pasaporte?
+
+¿Cómo sé que ya está listo?
+
+INFORMACIÓN
+
+Una vez finalizado el trámite y efectuado el segundo pago, la Oficina de Pasaportes realizará el proceso de elaboración y entrega del documento conforme a los tiempos establecidos por el Ministerio de Relaciones Exteriores.
+
+El pasaporte deberá reclamarse en la Oficina de Pasaportes de la Gobernación de Risaralda.
+
+Para reclamar el documento, el ciudadano deberá presentar el documento de identidad original y cumplir los requisitos establecidos para la entrega.
+
+Cuando se trate de menores de edad, la entrega se realizará conforme a la normatividad vigente y a los procedimientos establecidos por la Oficina de Pasaportes.
+
+OBSERVACIONES
+
+Los tiempos de entrega pueden variar por razones operativas o por disposiciones del Ministerio de Relaciones Exteriores.
+
+======================================================================
+TEMA: HORARIOS, UBICACIÓN Y CANALES DE ATENCIÓN
+======================================================================
+
+PALABRAS RELACIONADAS
+
+dirección
+ubicación
+dónde quedan
+dónde están
+oficina
+Pereira
+Gobernación
+Risaralda
+horario
+horarios
+atención
+lunes
+martes
+miércoles
+jueves
+viernes
+sábado
+domingo
+teléfono
+correo
+contacto
+mapa
+
+CONSULTAS FRECUENTES
+
+¿Dónde queda la oficina?
+
+¿Cuál es la dirección?
+
+¿Dónde están ubicados?
+
+¿Cómo llego?
+
+¿Cuál es el horario?
+
+¿A qué hora atienden?
+
+¿Trabajan los sábados?
+
+¿Atienden los viernes?
+
+¿Cuál es el teléfono?
+
+¿Cómo me comunico?
+
+INFORMACIÓN
+
+La Oficina de Pasaportes presta atención al público en la sede de la Gobernación de Risaralda.
+
+Dirección:
+
+(CONSERVAR LA DIRECCIÓN OFICIAL QUE YA TIENES EN TU BASE)
+
+Horario de atención:
+
+(CONSERVAR EXACTAMENTE LOS HORARIOS OFICIALES)
+
+Los ciudadanos podrán consultar la información oficial mediante los canales institucionales de la Gobernación de Risaralda.
+
+OBSERVACIONES
+
+Los horarios podrán modificarse por decisiones administrativas, días festivos o jornadas especiales previamente informadas por la Gobernación de Risaralda.
+
+======================================================================
+TEMA: CASOS ESPECIALES
+======================================================================
+
+PALABRAS RELACIONADAS
+
+error
+equivocación
+corregir
+corrección
+urgente
+emergencia
+viaje urgente
+cambio de datos
+doble nacionalidad
+apellido
+nombre
+documento dañado
+información incorrecta
+pasaporte dañado
+pasaporte roto
+cambio de información
+casos especiales
+
+CONSULTAS FRECUENTES
+
+Tengo un error en el pasaporte.
+
+El pasaporte salió con datos incorrectos.
+
+Necesito corregir un dato.
+
+Mi pasaporte está roto.
+
+Mi pasaporte está deteriorado.
+
+Voy a viajar urgente.
+
+Tengo doble nacionalidad.
+
+Cambié de nombre.
+
+Cambié de apellido.
+
+¿Qué debo hacer?
+
+INFORMACIÓN
+
+Las solicitudes relacionadas con corrección de datos, inconsistencias en la información, deterioro del documento, cambios en la identificación o cualquier situación especial serán analizadas de acuerdo con la normatividad vigente y los procedimientos establecidos por el Ministerio de Relaciones Exteriores.
+
+En aquellos casos que requieran documentación adicional, el ciudadano deberá presentarla para continuar con el trámite correspondiente.
+
+Cuando la consulta corresponda a una situación no contemplada dentro de los procedimientos generales, la Oficina de Pasaportes brindará la orientación correspondiente de acuerdo con cada caso particular.
+
+OBSERVACIONES
+
+Cada caso especial será evaluado individualmente conforme a la legislación colombiana y los lineamientos del Ministerio de Relaciones Exteriores.
