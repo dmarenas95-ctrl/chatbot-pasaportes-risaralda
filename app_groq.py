@@ -366,6 +366,47 @@ Te deseo un excelente día.
         )
 
         st.stop()
+
+    pregunta_lower = pregunta.lower()
+
+# ==========================================================
+# PROMOCIONES / EXENCIONES
+# ==========================================================
+
+if any(p in pregunta_lower for p in [
+    "descuento",
+    "descuentos",
+    "beneficio",
+    "beneficios",
+    "exención",
+    "exenciones",
+    "rebaja",
+    "pagar menos",
+    "víctima",
+    "sisben",
+    "sisbén",
+    "adulto mayor",
+    "discapacidad"
+]):
+
+    respuesta_texto = """
+Actualmente la expedición del pasaporte puede contemplar exenciones o beneficios para algunos ciudadanos, siempre que cumplan los requisitos establecidos por la normatividad vigente.
+
+La aplicación de estos beneficios depende de la validación realizada por la Oficina de Pasaportes y de la documentación presentada por el solicitante.
+
+Si desea conocer si aplica a algún beneficio o exención, se recomienda comunicarse directamente con la Oficina de Pasaportes de la Gobernación de Risaralda.
+"""
+
+    st.markdown(respuesta_texto)
+
+    st.session_state.messages.append(
+        {
+            "role": "assistant",
+            "content": respuesta_texto
+        }
+    )
+
+    st.stop()
             # ==========================================================
     # BÚSQUEDA SEMÁNTICA (RAG)
     # ==========================================================
@@ -376,7 +417,7 @@ Te deseo un excelente día.
             with st.spinner("🔍 Buscando información..."):
                 resultados = db.similarity_search_with_score(
                     pregunta,
-                    k=5
+                    k=3
                 )
         except Exception as error:
             respuesta_texto = (
