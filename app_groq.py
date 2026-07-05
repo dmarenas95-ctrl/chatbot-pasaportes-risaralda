@@ -415,8 +415,8 @@ Te deseo un excelente día.
         documentos = [documento for documento, _score in resultados]
 
         contexto = "\n\n".join(
-            [doc.page_content[:3000] for doc, score in resultados]
-            )
+            documento.page_content for documento in documentos
+        )
 
         # ==========================================================
         # PROMPT DEL MODELO
@@ -481,7 +481,7 @@ RESPUESTA
                         }
                     ],
                     temperature=0.2,
-                    max_tokens=350
+                    max_tokens=700
                 )
 
             respuesta_texto = completion.choices[0].message.content.strip()
