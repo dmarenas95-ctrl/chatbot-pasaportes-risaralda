@@ -750,10 +750,10 @@ OBSERVACIONES
 Cada caso especial será evaluado individualmente conforme a la legislación colombiana y los lineamientos del Ministerio de Relaciones Exteriores.
 
 ======================================================================
-TEMA: EXENCIONES Y BENEFICIOS EN EL PAGO DEL PASAPORTE
+TEMA: DESCUENTOS, EXENCIONES Y BENEFICIOS DEL PASAPORTE
 ======================================================================
 
-PALABRAS RELACIONADAS
+PALABRAS CLAVE
 
 descuento
 descuentos
@@ -761,50 +761,57 @@ beneficio
 beneficios
 exención
 exenciones
+exoneración
 rebaja
-pagar menos
 tarifa especial
+pagar menos
+pago
+valor
+precio
+costo
 víctima
-victima
+víctimas
+adulto mayor
+adultos mayores
+persona con discapacidad
+discapacidad
 sisbén
 sisben
-adulto mayor
-discapacidad
-beneficio económico
-exoneración
 
-CONSULTAS FRECUENTES
+CONSULTAS
 
 ¿Hay descuentos para sacar el pasaporte?
 
-¿Quiénes tienen descuento?
-
-¿Existen beneficios para el pago del pasaporte?
-
-¿Puedo pagar menos?
-
-¿Hay exenciones para el pasaporte?
-
-¿Las víctimas tienen algún beneficio?
-
-¿El Sisbén tiene descuento?
-
-¿Las personas con discapacidad tienen descuento?
+¿Quién tiene descuento?
 
 ¿Los adultos mayores tienen descuento?
 
-¿Cómo sé si tengo derecho a una exención?
+¿Las personas con discapacidad tienen descuento?
+
+¿Las víctimas tienen descuento?
+
+¿El Sisbén tiene descuento?
+
+¿Existe alguna rebaja en el pasaporte?
+
+¿Hay beneficios para pagar el pasaporte?
+
+¿Puedo pagar menos por el pasaporte?
+
+¿Hay algún descuento en el trámite?
+
+¿Cuáles son las exenciones del pasaporte?
 
 INFORMACIÓN
 
-La expedición del pasaporte puede contemplar exenciones o beneficios en algunos conceptos del pago para los ciudadanos que cumplan las condiciones establecidas por la normatividad vigente.
+La Oficina de Pasaportes puede aplicar exenciones o beneficios únicamente en los casos establecidos por la normatividad vigente.
 
-La aplicación de estos beneficios depende del cumplimiento de los requisitos legales y de la validación realizada por la Oficina de Pasaportes.
+No todos los ciudadanos tienen derecho a descuentos. Cada caso debe ser verificado por la Oficina de Pasaportes.
 
-Para acceder a una exención o beneficio, el ciudadano deberá presentar la documentación que acredite la condición correspondiente al momento de realizar el trámite.
+Si una persona considera que puede acceder a un beneficio, deberá presentar los documentos que acrediten dicha condición durante el trámite.
 
-Si desea conocer si tiene derecho a algún beneficio o exención, se recomienda consultar directamente con la Oficina de Pasaportes de la Gobernación de Risaralda antes de efectuar los pagos.
+Antes de realizar el pago, se recomienda consultar directamente con la Oficina de Pasaportes para verificar si cumple los requisitos para acceder a alguna exención o beneficio.
 
 OBSERVACIONES
 
-Las exenciones y beneficios aplican únicamente en los casos previstos por la normatividad vigente y estarán sujetos a la verificación realizada por la Oficina de Pasaportes.
+Los descuentos o exenciones solo aplican cuando la normatividad vigente así lo establece y después de la validación realizada por la Oficina de Pasaportes.
