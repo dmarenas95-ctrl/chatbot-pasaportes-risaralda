@@ -376,7 +376,7 @@ Te deseo un excelente día.
             with st.spinner("🔍 Buscando información..."):
                 resultados = db.similarity_search_with_score(
                     pregunta,
-                    k=5
+                    k=3
                 )
         except Exception as error:
             respuesta_texto = (
@@ -415,8 +415,8 @@ Te deseo un excelente día.
         documentos = [documento for documento, _score in resultados]
 
         contexto = "\n\n".join(
-            documento.page_content for documento in documentos
-        )
+            [doc.page_content[:3000] for doc, score in resultados]
+            )
 
         # ==========================================================
         # PROMPT DEL MODELO
@@ -481,7 +481,7 @@ RESPUESTA
                         }
                     ],
                     temperature=0.2,
-                    max_tokens=700
+                    max_tokens=350
                 )
 
             respuesta_texto = completion.choices[0].message.content.strip()
