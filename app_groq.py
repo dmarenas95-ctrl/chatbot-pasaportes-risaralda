@@ -353,19 +353,55 @@ Gracias por utilizar el Chatbot de Pasaportes de la Gobernación de Risaralda.
 
 Te deseo un excelente día.
 """
+pregunta_lower = pregunta.lower()
 
-        with st.chat_message("assistant"):
+if any(palabra in pregunta_lower for palabra in [
+    "descuento",
+    "descuentos",
+    "beneficio",
+    "beneficios",
+    "exención",
+    "exenciones",
+    "rebaja",
+    "pagar menos",
+    "adulto mayor",
+    "adultos mayores",
+    "discapacidad",
+    "víctima",
+    "victima",
+    "sisbén",
+    "sisben"
+]):
 
-            st.markdown(respuesta)
+    respuesta_texto = (
+        "La Oficina de Pasaportes puede aplicar exenciones o beneficios "
+        "únicamente en los casos establecidos por la normatividad vigente."
+    )
 
-        st.session_state.messages.append(
-            {
-                "role":"assistant",
-                "content":respuesta
-            }
-        )
+    with st.chat_message("assistant"):
+        st.markdown(respuesta_texto)
 
-        st.stop()
+    st.session_state.messages.append(
+        {
+            "role": "assistant",
+            "content": respuesta_texto
+        }
+    )
+
+    st.stop()
+
+    with st.chat_message("assistant"):
+
+        st.markdown(respuesta)
+
+    st.session_state.messages.append(
+        {
+            "role":"assistant",
+            "content":respuesta
+        }
+    )
+
+    st.stop()
 
     
             # ==========================================================
@@ -378,7 +414,7 @@ Te deseo un excelente día.
             with st.spinner("🔍 Buscando información..."):
                 resultados = db.similarity_search_with_score(
                     pregunta,
-                    k=5
+                    k=3
                 )
         except Exception as error:
             respuesta_texto = (
