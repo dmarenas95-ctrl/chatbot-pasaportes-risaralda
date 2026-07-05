@@ -22,9 +22,9 @@ with open(
 
     contenido = archivo.read()
 
-# Separar cada pregunta
+# Separar cada tema
 bloques = contenido.split(
-    "------------------------------------------------------------"
+    "======================================================================"
 )
 
 documents = []
