@@ -482,8 +482,8 @@ RESPUESTA
                             "content": prompt
                         }
                     ],
-                    temperature=0.2,
-                    max_tokens=700
+                    temperature=0.1,
+                    max_tokens=400
                 )
 
             respuesta_texto = completion.choices[0].message.content.strip()
