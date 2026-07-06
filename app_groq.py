@@ -261,7 +261,7 @@ if pregunta:
 
         respuesta = (
             "La Oficina de Pasaportes puede aplicar exenciones o beneficios "
-            "únicamente en los casos establecidos por la normatividad vigente."
+            "únicamente en los casos establecidos por la normatividad vigente. "
             "Debe consultar directamente en la oficina de pasaportes - Gobernación de Risaralda."
         )
 
