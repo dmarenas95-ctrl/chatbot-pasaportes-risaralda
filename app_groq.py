@@ -18,7 +18,7 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 BASE_DIR = Path(__file__).resolve().parent
 FAQ_PATH = BASE_DIR / "documentos" / "faq_pasaportes.txt"
-VECTOR_DIR = BASE_DIR / "base_vectorial_v2"  # <-- Le agregamos _v2
+VECTOR_DIR = BASE_DIR / "base_vectorial"
 CHROMA_DB_PATH = VECTOR_DIR / "chroma.sqlite3"
 
 MENSAJE_SIN_INFORMACION = (
