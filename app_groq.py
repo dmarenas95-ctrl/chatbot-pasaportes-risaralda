@@ -371,30 +371,28 @@ Si tienes otra consulta sobre el trámite de pasaportes, estaré encantado de ay
         st.stop()
 
     elif texto in despedidas:
-
         respuesta = """
-👋 ¡Hasta luego!
+    👋 ¡Hasta luego!
 
-Gracias por utilizar el Chatbot de Pasaportes de la Gobernación de Risaralda.
+    Gracias por utilizar el Chatbot de Pasaportes de la Gobernación de Risaralda.
 
-Te deseo un excelente día.
-"""
+    Te deseo un excelente día.
+    """
 
-    with st.chat_message("assistant"):
+        with st.chat_message("assistant"):
 
-        st.markdown(respuesta)
+            st.markdown(respuesta)
 
-    st.session_state.messages.append(
-        {
-            "role":"assistant",
-            "content":respuesta
-        }
-    )
+        st.session_state.messages.append(
+            {
+                "role":"assistant",
+                "content":respuesta
+            }
+        )
 
-    st.stop()
-
+        st.stop()
     
-            # ==========================================================
+    # ==========================================================
     # BÚSQUEDA SEMÁNTICA (RAG)
     # ==========================================================
 
