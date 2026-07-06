@@ -18,7 +18,7 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 BASE_DIR = Path(__file__).resolve().parent
 FAQ_PATH = BASE_DIR / "documentos" / "faq_pasaportes.txt"
-VECTOR_DIR = BASE_DIR / "base_vectorial"
+VECTOR_DIR = BASE_DIR / "base_vectorial_v2"  # <-- Le agregamos _v2
 CHROMA_DB_PATH = VECTOR_DIR / "chroma.sqlite3"
 
 MENSAJE_SIN_INFORMACION = (
@@ -400,6 +400,7 @@ Si tienes otra consulta sobre el trámite de pasaportes, estaré encantado de ay
 
         try:
             with st.spinner("🔍 Buscando información..."):
+                # Incrementamos k a 3 para capturar mejor el contexto si los bloques son amplios
                 resultados = db.similarity_search_with_score(
                     pregunta,
                     k=3
@@ -412,85 +413,59 @@ Si tienes otra consulta sobre el trámite de pasaportes, estaré encantado de ay
             st.error(respuesta_texto)
             st.exception(error)
             st.session_state.messages.append(
-                {
-                    "role": "assistant",
-                    "content": respuesta_texto
-                }
+                {"role": "assistant", "content": respuesta_texto}
             )
             st.stop()
 
-        if len(resultados) == 0:
+        # Filtrar por un umbral de score si es necesario (Chroma usa distancia L2, menor es más cercano)
+        # Si la distancia es muy alta (ej. > 1.2), el tema no tiene nada que ver
+        documentos = []
+        for doc, score in resultados:
+            if score < 1.3:  # Ajusta este umbral según pruebas
+                documentos.append(doc)
 
+        if len(documentos) == 0:
             respuesta_texto = MENSAJE_SIN_INFORMACION
-
             st.markdown(respuesta_texto)
-
             st.session_state.messages.append(
-                {
-                    "role": "assistant",
-                    "content": respuesta_texto
-                }
+                {"role": "assistant", "content": respuesta_texto}
             )
-
             st.stop()
 
         # ==========================================================
         # CONTEXTO
         # ==========================================================
 
-        documentos = [documento for documento, _score in resultados]
-
         contexto = "\n\n".join(
             documento.page_content for documento in documentos
         )
 
+        # Puedes dejar el DEBUG si lo deseas
+        # st.subheader("DEBUG")
+        # st.code(contexto)
+
         # ==========================================================
-        # PROMPT DEL MODELO
+        # PROMPT DEL MODELO (Separado en Sistema y Usuario)
         # ==========================================================
 
-        prompt = f"""
-Eres el asistente virtual oficial de la Oficina de Pasaportes de la Gobernación de Risaralda.
+        system_instruction = """Eres el asistente virtual oficial de la Oficina de Pasaportes de la Gobernación de Risaralda.
+Tu única fuente de información es el CONTEXTO proporcionado por el usuario.
 
-Tu única fuente de información es el CONTEXTO.
-
-REGLAS IMPORTANTES:
-
-1. Nunca inventes información.
-
-2. Nunca respondas utilizando conocimientos propios.
-
-3. Si la respuesta no aparece claramente en el contexto responde exactamente:
-
+REGLAS CRÍTICAS DE NEGOCIO:
+1. Nunca inventes información bajo ninguna circunstancia.
+2. Nunca respondas utilizando conocimientos previos o externos a la información suministrada.
+3. Si la respuesta exacta a la pregunta no aparece claramente en el CONTEXTO, debes responder estrictamente con esta frase:
 "No encontré información sobre esa consulta en la base de conocimiento de la Oficina de Pasaportes de la Gobernación de Risaralda."
+4. Si existen listas o pasos, organízalos utilizando viñetas de forma clara.
+5. Si existen valores económicos o tarifas, muéstralos organizados correctamente.
+6. Está prohibido mencionar la palabra "contexto". No uses frases como "Según el contexto..." o "Con base en la información proporcionada...". Simplemente responde directamente como la institución."""
 
-4. Si existen listas o pasos, organízalos utilizando viñetas.
-
-5. Si existen valores económicos, organízalos correctamente.
-
-6. No menciones el contexto.
-
-7. No digas frases como:
-"Según el contexto..."
-"Con base en el contexto..."
-
-Simplemente responde.
-
-==============================
-
-CONTEXTO
-
+        user_content = f"""CONTEXTO:
 {contexto}
 
 ==============================
-
-PREGUNTA
-
-{pregunta}
-
-==============================
-
-RESPUESTA
-"""
+PREGUNTA:
+{pregunta}"""
 
         # ==========================================================
         # CONSULTAR GROQ
@@ -502,11 +477,15 @@ RESPUESTA
                     model="llama-3.1-8b-instant",
                     messages=[
                         {
+                            "role": "system",
+                            "content": system_instruction
+                        },
+                        {
                             "role": "user",
-                            "content": prompt
+                            "content": user_content
                         }
                     ],
-                    temperature=0.2,
+                    temperature=0.0, # Bajamos a 0.0 para reducir la creatividad/alucinación al mínimo
                     max_tokens=700
                 )
 
@@ -519,23 +498,11 @@ RESPUESTA
             st.error(respuesta_texto)
             st.exception(error)
             st.session_state.messages.append(
-                {
-                    "role": "assistant",
-                    "content": respuesta_texto
-                }
+                {"role": "assistant", "content": respuesta_texto}
             )
             st.stop()
 
         st.markdown(respuesta_texto)
-
-    # Guardar respuesta en el historial
-    st.session_state.messages.append(
-        {
-            "role": "assistant",
-            "content": respuesta_texto
-        }
-    )
-
 # ==========================================================
 # PIE DE PÁGINA
 # ==========================================================
