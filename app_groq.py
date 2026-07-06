@@ -249,33 +249,32 @@ if pregunta:
     texto = pregunta.lower().strip()
 
     if any(x in texto for x in [
-    "descuento",
-    "descuentos",
-    "beneficio",
-    "beneficios",
-    "exención",
-    "exenciones",
-    "pagar menos",
-    "rebaja"
-]):
+        "descuento",
+        "descuentos",
+        "beneficio",
+        "beneficios",
+        "exención",
+        "exenciones",
+        "pagar menos",
+        "rebaja"
+    ]):
 
         respuesta = (
-        "La Oficina de Pasaportes puede aplicar exenciones o beneficios "
-        "únicamente en los casos establecidos por la normatividad vigente."
-    )
+            "La Oficina de Pasaportes puede aplicar exenciones o beneficios "
+            "únicamente en los casos establecidos por la normatividad vigente."
+        )
 
-    with st.chat_message("assistant"):
-        st.markdown(respuesta)
+        with st.chat_message("assistant"):
+            st.markdown(respuesta)
 
-    st.session_state.messages.append(
-        {
-            "role": "assistant",
-            "content": respuesta
-        }
-    )
+        st.session_state.messages.append(
+            {
+                "role": "assistant",
+                "content": respuesta
+            }
+        )
 
-    st.stop()
-
+        st.stop()
     # ======================================================
     # SALUDOS
     # ======================================================
